@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="![image](https://user-images.githubusercontent.com/121345600/229087378-42a1cfca-b50b-4cf4-a5c8-5d46500be4cc.png)">
+
 <!--
 **JosueLpz/JosueLpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
