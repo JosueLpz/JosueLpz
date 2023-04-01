@@ -1,3 +1,1 @@
-![Hackerman](https://ibb.co/7jjvKFK)
-
-[![Git](https://ibb.co/7jjvKFK)](https://git-scm.com/)
+![Hackerman]([https://ibb.co/7jjvKFK](https://i.postimg.cc/FRQjKzHg/hacker-man-final.jpg))
