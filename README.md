@@ -20,9 +20,8 @@
   <p>
     :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo.
   </p>
- :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Josue-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 </div>
-
+ :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Josue-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 <div align="center">
   <h3>:hammer_and_wrench: Lenguajes y herramientas:</h3>
   <p>
