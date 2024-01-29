@@ -3,7 +3,7 @@
   <img decoding="async" src="https://i.postimg.cc/g0YLfQNs/Black-Modern-Vlogger-You-Tube-Banner.png"  width="800"/>
 </div>
 <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 
 
 
